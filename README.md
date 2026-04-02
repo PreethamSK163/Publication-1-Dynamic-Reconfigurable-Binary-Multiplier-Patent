@@ -1,4 +1,4 @@
-# Dynamic Reconfigurable Binary Multiplier System and Method Thereof
+# Patent - Dynamic Reconfigurable Binary Multiplier System and Method Thereof
 
 > A high-speed, low-power, dynamically reconfigurable binary multiplier architecture using quadrant decomposition and adaptive row bypassing — synthesised and physically implemented on TSMC 180nm and 90nm CMOS technology nodes using Cadence EDA tools.
 
