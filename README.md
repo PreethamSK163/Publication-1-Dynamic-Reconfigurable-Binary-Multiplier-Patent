@@ -119,7 +119,6 @@ The proposed multiplier architecture is directly applicable in:
 
 | **Author** | Preetham SK |
 |:---|:---|
-| **Registration No.** | 22BEE1006 |
 | **Programme** | B.Tech. Electrical and Electronics Engineering, VIT Chennai |
 | **LinkedIn** | [linkedin.com/in/preethamsk16](https://www.linkedin.com/in/preethamsk16) |
 | **GitHub** | [github.com/PreethamSK163](https://github.com/PreethamSK163) |
