@@ -25,6 +25,7 @@
 | **Field of Invention** | Computer Science / Digital VLSI Design |
 | **Status** | Published — Under Examination |
 
+![Patent Proof](Patent_Proof.png)
 ## 👥 Inventors
 
 | Name | Affiliation |
